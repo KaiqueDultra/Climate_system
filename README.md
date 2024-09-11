@@ -1,6 +1,6 @@
 # Climate System
-![Build Status](https://img.shields.io/github/actions/workflow/status/seu-usuario/weatherbuddy/build.yml?branch=main)
-![License](https://img.shields.io/github/license/seu-usuario/weatherbuddy)
+![Build Status](https://img.shields.io/github/actions/workflow/status/KaiqueDultra/Climate_system/build.yml?branch=main)
+![License](https://img.shields.io/github/license/KaiqueDultra/Climate_system)
 
 **Climate System** é um aplicativo simples de clima desenvolvido em Python. Ele utiliza a API OpenWeatherMap para fornecer informações sobre as condições meteorológicas atuais e previsões para qualquer cidade ao redor do mundo. O sistema possui uma interface gráfica construida com Tkinter.
 
