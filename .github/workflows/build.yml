@@ -32,4 +32,4 @@ jobs:
 
     - name: Check for file anomalies
       run: |
-        python check_anomalies.py
+        python check_critical_anomalies.py
