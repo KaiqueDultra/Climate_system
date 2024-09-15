@@ -56,6 +56,10 @@
   Temperatura: 25°C
   Descrição: Céu limpo
 ```
+## Climate System
+![Texto Alternativo](assets/image_1.png)
+![Texto Alternativo](assets/image_2.png)
+
 ## Licença
 
 - Esse projeto está licenciado sob a licença MIT - veja o arquivo **LICENSE** para mais detalhes.
