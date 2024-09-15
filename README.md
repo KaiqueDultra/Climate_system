@@ -2,7 +2,7 @@
 ![Build Status](https://img.shields.io/github/actions/workflow/status/KaiqueDultra/Climate_system/build.yml?branch=main)
 ![License](https://img.shields.io/github/license/KaiqueDultra/Climate_system)
 
-**Climate System** é um aplicativo simples de clima desenvolvido em Python. Ele utiliza a API OpenWeatherMap para fornecer informações sobre as condições meteorológicas atuais e previsões para qualquer cidade ao redor do mundo. O sistema possui uma interface gráfica construida com Tkinter.
+**Climate System** é um aplicativo simples de clima desenvolvido em Python. Ele utiliza a API WeatherAPI para fornecer informações sobre as condições meteorológicas atuais e previsões para qualquer cidade ao redor do mundo. O sistema possui uma interface gráfica construida com Tkinter.
 
 # Funcionalidades
 
@@ -14,7 +14,7 @@
 - **Python**: Linguagem de programação principal;
 - **Tkinter**: Biblioteca para criar a interface gráfica do usuário;
 - **Requests**: Biblioteca para fazer solicitações HTTP à API de clima;
-- **OpenWeatherMap API**: Serviço para obter dados meteorológicos.
+- **WeatherAPI**: Serviço para obter dados meteorológicos.
 
 ## Instalação
 
@@ -34,8 +34,8 @@
    ```bash
    pip install requests
 3. Obtenha a chave da API
-    - Vá para **OpenWeatherMap** e inscreva-se para obter uma chave de API gratuita
-    - Substitua ´sua_chave_de_api_aqui´ pelo valor da sua chave da API
+    - Vá para **WeatherAPI** e inscreva-se para obter uma chave de API gratuita
+    - Substitua ´API_KEY´ pelo valor da sua chave da API
 
 ## Uso
 
