@@ -4,6 +4,8 @@
 
 **Climate System** é um aplicativo simples de clima desenvolvido em Python. Ele utiliza a API WeatherAPI para fornecer informações sobre as condições meteorológicas atuais e previsões para qualquer cidade ao redor do mundo. O sistema possui uma interface gráfica construida com Tkinter.
 
+![Texto Alternativo](assets/image_1.png) ![Texto Alternativo](assets/image_2.png)
+
 # Funcionalidades
 
 - **Consulta do clima atual**: Obtém e exibe a temperatura, descrição do clima e a localização (cidade e País) baseada na entrada do usuário;
@@ -56,9 +58,6 @@
   Temperatura: 25°C
   Descrição: Céu limpo
 ```
-## Climate System
-![Texto Alternativo](assets/image_1.png)
-![Texto Alternativo](assets/image_2.png)
 
 ## Licença
 
